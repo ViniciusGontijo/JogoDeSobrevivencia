@@ -1,1 +1,1 @@
-"# JogoDeSobrevivencia Git" 
+Criado para estudo da IDE unity
